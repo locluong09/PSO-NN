@@ -13,8 +13,10 @@ This project combines **Particle Swarm Optimization (PSO)** with **Neural Networ
 - Supports various neural network architectures and PSO configurations.
 
 ## Dependencies
-```bash
-pip install -r requirements.txt
+This project requires the following Python packages:
+- **NumPy**: For numerical operations.
+- **Matplotlib**: For data visualization.
+- **Pandas**: For data manipulation and analysis.
 
 ## Installation
 Clone the repository:
