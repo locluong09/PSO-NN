@@ -9,7 +9,9 @@ This project combines **Particle Swarm Optimization (PSO)** with **Neural Networ
 
 ## Features
 - Combines PSO with NN for parameter optimization in history matching.
-- Reduces computational cost by approximating objective functions.
+- Reduces computational cost by minizing objective functions.
+
+## TODO
 - Supports various neural network architectures and PSO configurations.
 
 ## Dependencies
